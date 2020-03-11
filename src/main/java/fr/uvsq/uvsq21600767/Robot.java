@@ -6,6 +6,6 @@ public class Robot {
 		this.position = pos;
 	}
 	public void avance() {
-		this.position += 10;A
+		this.position += 10;
 	}
 }
